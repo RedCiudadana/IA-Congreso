@@ -31,7 +31,7 @@ const Login = ({ onLogin }) => {
                 <div className="head">
                   <div className="left-logo-area">
                     <Link to="/">
-                      <img src="/assets/images/LOGO-RED_NEGRO.png" alt="logo-image" />
+                      <img src="/assets/images/congreso/02_LOGOS/IA_CONGRESO-02.png" alt="logo-image" />
                     </Link>
                   </div>
                   <span>Bienvenido</span>
