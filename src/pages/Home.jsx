@@ -10,7 +10,7 @@ function Home() {
         <div className="inner">
           <img style={{marginLeft:'10px',width:'300px'}} src="/assets/images/congreso/02_LOGOS/IA_CONGRESO-03.png" alt="logo-image" />
           <p className="dsic my-4">
-          Bienvenido a la Plataforma IA-SEGEPLAN, una herramienta diseñada para potenciar la transformación digital en la planificación pública mediante asistentes virtuales de inteligencia artificial (IA).
+          Bienvenido a la Plataforma IA-Congreso de la República, una herramienta diseñada para potenciar la transformación digital en la planificación pública mediante asistentes virtuales de inteligencia artificial (IA).
           {/* <br/>
           <br/>⚠️ Nota Importante:
           La IA es una herramienta de apoyo y requiere supervisión humana. Los resultados deben ser revisados antes de su uso oficial. */}

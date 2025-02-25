@@ -1,6 +1,6 @@
 # Proyecto Congreso IA - Integración de IA con React + Vite
 
-Este proyecto tiene como objetivo desarrollar cinco prototipos que integren inteligencia artificial utilizando la API de OpenAI. Cada módulo está diseñado para optimizar tareas clave dentro de SEGEPLAN, proporcionando asistencia en generación de documentos, análisis de expedientes, evaluación de políticas públicas, ciencia de datos y análisis de prospectiva estratégica.
+Este proyecto tiene como objetivo desarrollar cinco prototipos que integren inteligencia artificial utilizando la API de OpenAI. Cada módulo está diseñado para optimizar tareas clave dentro de Congreso de la República, proporcionando asistencia en generación de documentos, análisis de expedientes, evaluación de políticas públicas, ciencia de datos y análisis de prospectiva estratégica.
 
 ## 🛠 Tecnologías Utilizadas
 
@@ -13,8 +13,8 @@ Este proyecto tiene como objetivo desarrollar cinco prototipos que integren inte
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
- git clone https://github.com/RedCiudadana/IA-SEGEPLAN-REACT
- cd proyecto-segeplan
+ git clone https://github.com/RedCiudadana/IA-Congreso de la República-REACT
+ cd proyecto-Congreso de la República
 ```
 
 ### 2️⃣ Instalar Dependencias
@@ -67,7 +67,7 @@ El proyecto hace uso de la API de OpenAI para procesar datos y generar análisis
 
 ## 📂 Estructura del Proyecto
 ```
-📦 proyecto-segeplan
+📦 proyecto-Congreso de la República
  ┣ 📂 src
  ┃ ┣ 📂 components
  ┃ ┣ 📂 pages

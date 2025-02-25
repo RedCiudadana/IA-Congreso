@@ -211,9 +211,9 @@ Identificación de Riesgos Posibles obstáculos y medidas de mitigación.
 Recomendaciones Finales Sugerencias para mejorar el proyecto o pasos siguientes.`,
         `Memorando Interno para Cambio en Procedimientos Administrativos
 
-Contexto: SEGEPLAN implementará nuevos procedimientos administrativos internos y necesita informar a su personal.
+Contexto: Congreso de la República implementará nuevos procedimientos administrativos internos y necesita informar a su personal.
 📝 Prompt:
-*"Genera un memorando interno para todos los funcionarios de SEGEPLAN informando sobre el cambio en procedimientos administrativos.
+*"Genera un memorando interno para todos los funcionarios de Congreso de la República informando sobre el cambio en procedimientos administrativos.
 Debe incluir:
 1. Encabezado oficial con fecha, destinatario y asunto.
 2. Introducción breve explicando la razón del cambio.
@@ -222,9 +222,9 @@ Debe incluir:
 5. Cierre con un tono profesional y llamado a la acción para asegurar que todos los funcionarios cumplan con las nuevas directrices."*,`,
         `Informe Ejecutivo sobre Avances de un Proyecto
 
-Contexto: SEGEPLAN debe presentar un informe de avances sobre un proyecto de planificación urbana financiado por cooperación internacional.
+Contexto: Congreso de la República debe presentar un informe de avances sobre un proyecto de planificación urbana financiado por cooperación internacional.
 📝 Prompt:
-*"Escribe un informe ejecutivo sobre los avances del proyecto de planificación urbana que SEGEPLAN está ejecutando con financiamiento de cooperación internacional.
+*"Escribe un informe ejecutivo sobre los avances del proyecto de planificación urbana que Congreso de la República está ejecutando con financiamiento de cooperación internacional.
 El informe debe incluir:
 1. Resumen ejecutivo (1 párrafo) con los avances generales del proyecto.
 2. Objetivos del proyecto y su estado actual.
@@ -232,11 +232,11 @@ El informe debe incluir:
 4. Desafíos y riesgos identificados, junto con estrategias para mitigarlos.
 5. Próximos pasos y acciones previstas para los próximos tres meses. 
 Debe mantener un tono técnico, claro y enfocado en resultados medibles."*,`,
-        `Solicitud de Presupuesto para un Evento de SEGEPLAN
+        `Solicitud de Presupuesto para un Evento de Congreso de la República
 
-Contexto: SEGEPLAN necesita solicitar presupuesto para un evento sobre transformación digital en la administración pública.
+Contexto: Congreso de la República necesita solicitar presupuesto para un evento sobre transformación digital en la administración pública.
 📝 Prompt:
-*"Redacta una solicitud de presupuesto dirigida al departamento financiero de SEGEPLAN para la organización del evento “Transformación Digital en la Administración Pública”.
+*"Redacta una solicitud de presupuesto dirigida al departamento financiero de Congreso de la República para la organización del evento “Transformación Digital en la Administración Pública”.
 Debe incluir:
 1. Introducción explicando la relevancia del evento para la modernización institucional.
 2. Detalle de los gastos estimados, incluyendo alquiler de espacio, materiales, honorarios de expertos, entre otros.
@@ -245,12 +245,12 @@ Debe incluir:
 Debe mantener un tono formal y estructurado, con cifras estimadas y referencias a lineamientos institucionales."*,`,
         `Respuesta Oficial a una Consulta Ciudadana sobre Planificación Territorial
 
-Contexto: Un ciudadano ha solicitado información sobre los proyectos de planificación territorial en su municipio. SEGEPLAN debe responder formalmente.
+Contexto: Un ciudadano ha solicitado información sobre los proyectos de planificación territorial en su municipio. Congreso de la República debe responder formalmente.
 📝 Prompt:
-*"Escribe una respuesta oficial a una consulta ciudadana recibida en SEGEPLAN sobre proyectos de planificación territorial en un municipio específico.
+*"Escribe una respuesta oficial a una consulta ciudadana recibida en Congreso de la República sobre proyectos de planificación territorial en un municipio específico.
 Debe incluir:
 1. Saludo formal y agradecimiento por la consulta.
-2. Explicación del marco general de planificación territorial y el rol de SEGEPLAN en este proceso.
+2. Explicación del marco general de planificación territorial y el rol de Congreso de la República en este proceso.
 3. Información sobre proyectos activos en el municipio, mencionando objetivos, estado de avance y fuentes de financiamiento.
 4. Referencias a documentos oficiales o enlaces donde el ciudadano pueda obtener más información.
 5. Cierre cordial, ofreciendo contacto adicional para resolver más dudas. 

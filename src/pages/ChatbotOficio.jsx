@@ -81,10 +81,10 @@ function ChatbotOficio() {
       messages: [
         `Carta Formal de Solicitud de Cooperación Técnica
 
-Contexto: SEGEPLAN busca establecer una alianza con una universidad para fortalecer la planificación territorial.
+Contexto: Congreso de la República busca establecer una alianza con una universidad para fortalecer la planificación territorial.
 📝 Prompt:
-*"Redacta una carta formal en nombre de SEGEPLAN dirigida al rector de una universidad, solicitando cooperación técnica en planificación territorial. La carta debe incluir:
-1. Saludo formal y presentación de SEGEPLAN como entidad rectora de la planificación en Guatemala.
+*"Redacta una carta formal en nombre de Congreso de la República dirigida al rector de una universidad, solicitando cooperación técnica en planificación territorial. La carta debe incluir:
+1. Saludo formal y presentación de Congreso de la República como entidad rectora de la planificación en Guatemala.
 2. Contexto de la solicitud, explicando la necesidad de fortalecer capacidades técnicas en desarrollo territorial.
 3. Propuesta de colaboración, mencionando el intercambio de información, asistencia técnica y posibles convenios.
 4. Cierre formal con una invitación a una reunión para discutir detalles y firmar un acuerdo. 
@@ -92,9 +92,9 @@ La carta debe tener un tono formal, institucional y ser clara en sus intenciones
 
         `Memorando Interno para Cambio en Procedimientos Administrativos
 
-Contexto: SEGEPLAN implementará nuevos procedimientos administrativos internos y necesita informar a su personal.
+Contexto: Congreso de la República implementará nuevos procedimientos administrativos internos y necesita informar a su personal.
 📝 Prompt:
-*"Genera un memorando interno para todos los funcionarios de SEGEPLAN informando sobre el cambio en procedimientos administrativos.
+*"Genera un memorando interno para todos los funcionarios de Congreso de la República informando sobre el cambio en procedimientos administrativos.
 Debe incluir:
 1. Encabezado oficial con fecha, destinatario y asunto.
 2. Introducción breve explicando la razón del cambio.
@@ -104,9 +104,9 @@ Debe incluir:
 
         `Informe Ejecutivo sobre Avances de un Proyecto
 
-Contexto: SEGEPLAN debe presentar un informe de avances sobre un proyecto de planificación urbana financiado por cooperación internacional.
+Contexto: Congreso de la República debe presentar un informe de avances sobre un proyecto de planificación urbana financiado por cooperación internacional.
 📝 Prompt:
-*"Escribe un informe ejecutivo sobre los avances del proyecto de planificación urbana que SEGEPLAN está ejecutando con financiamiento de cooperación internacional.
+*"Escribe un informe ejecutivo sobre los avances del proyecto de planificación urbana que Congreso de la República está ejecutando con financiamiento de cooperación internacional.
 El informe debe incluir:
 1. Resumen ejecutivo (1 párrafo) con los avances generales del proyecto.
 2. Objetivos del proyecto y su estado actual.
@@ -115,11 +115,11 @@ El informe debe incluir:
 5. Próximos pasos y acciones previstas para los próximos tres meses. 
 Debe mantener un tono técnico, claro y enfocado en resultados medibles."*,`,
 
-        `Solicitud de Presupuesto para un Evento de SEGEPLAN
+        `Solicitud de Presupuesto para un Evento de Congreso de la República
 
-Contexto: SEGEPLAN necesita solicitar presupuesto para un evento sobre transformación digital en la administración pública.
+Contexto: Congreso de la República necesita solicitar presupuesto para un evento sobre transformación digital en la administración pública.
 📝 Prompt:
-*"Redacta una solicitud de presupuesto dirigida al departamento financiero de SEGEPLAN para la organización del evento “Transformación Digital en la Administración Pública”.
+*"Redacta una solicitud de presupuesto dirigida al departamento financiero de Congreso de la República para la organización del evento “Transformación Digital en la Administración Pública”.
 Debe incluir:
 1. Introducción explicando la relevancia del evento para la modernización institucional.
 2. Detalle de los gastos estimados, incluyendo alquiler de espacio, materiales, honorarios de expertos, entre otros.
@@ -129,12 +129,12 @@ Debe mantener un tono formal y estructurado, con cifras estimadas y referencias 
 
         `Respuesta Oficial a una Consulta Ciudadana sobre Planificación Territorial
 
-Contexto: Un ciudadano ha solicitado información sobre los proyectos de planificación territorial en su municipio. SEGEPLAN debe responder formalmente.
+Contexto: Un ciudadano ha solicitado información sobre los proyectos de planificación territorial en su municipio. Congreso de la República debe responder formalmente.
 📝 Prompt:
-*"Escribe una respuesta oficial a una consulta ciudadana recibida en SEGEPLAN sobre proyectos de planificación territorial en un municipio específico.
+*"Escribe una respuesta oficial a una consulta ciudadana recibida en Congreso de la República sobre proyectos de planificación territorial en un municipio específico.
 Debe incluir:
 1. Saludo formal y agradecimiento por la consulta.
-2. Explicación del marco general de planificación territorial y el rol de SEGEPLAN en este proceso.
+2. Explicación del marco general de planificación territorial y el rol de Congreso de la República en este proceso.
 3. Información sobre proyectos activos en el municipio, mencionando objetivos, estado de avance y fuentes de financiamiento.
 4. Referencias a documentos oficiales o enlaces donde el ciudadano pueda obtener más información.
 5. Cierre cordial, ofreciendo contacto adicional para resolver más dudas. 
@@ -181,7 +181,7 @@ Debe mantener un tono accesible pero formal, asegurando que la información sea 
               ✕
             </button>
             <p className="dsic my-4">
-          🌟 <b>¡Bienvenido al módulo de Asistentes Virtuales de IA de SEGEPLAN!</b> 🌟
+          🌟 <b>¡Bienvenido al módulo de Asistentes Virtuales de IA de Congreso de la República!</b> 🌟
               <br/>
               Esta herramienta ha sido diseñada para <b>facilitar tu trabajo diario</b>, permitiéndote generar documentos, analizar expedientes y evaluar políticas públicas con el apoyo de la inteligencia artificial.
               <br/><br/>
