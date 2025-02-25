@@ -1,4 +1,4 @@
-# Proyecto SEGEPLAN - Integración de IA con React + Vite
+# Proyecto Congreso IA - Integración de IA con React + Vite
 
 Este proyecto tiene como objetivo desarrollar cinco prototipos que integren inteligencia artificial utilizando la API de OpenAI. Cada módulo está diseñado para optimizar tareas clave dentro de SEGEPLAN, proporcionando asistencia en generación de documentos, análisis de expedientes, evaluación de políticas públicas, ciencia de datos y análisis de prospectiva estratégica.
 
